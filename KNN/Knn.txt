@@ -1,0 +1,18 @@
+**KNN (K-Nearest neighbours)**
+
+The K-Nearest Neighbors (KNN) algorithm is a robust and intuitive 
+machine learning method employed to tackle classification and regression problems. 
+The K-NN algorithm works by finding the K nearest neighbors to a given data point 
+based on a distance metric, such as Euclidean distance. The class or value of the data point 
+is then determined by the majority vote or average of the K neighbors. 
+This approach allows the algorithm to adapt to different patterns and make predictions 
+based on the local structure of the data.
+
+**Euclidean Distance**
+
+Euclidean distance can also be visualized as the length of the straight line 
+that joins the two points which are into consideration. This metric helps us calculate 
+the net displacement done between the two states of an object.
+The formula for Euclidean distance in two dimensions is D = sqrt((X2 - X1)^2 + (Y2 − Y1)^2) , 
+where D is the Euclidean distance, and ( x 1 , y 1 ) and ( x 2 , y 2 ) are the Cartesian coordinates of the two points.
+
